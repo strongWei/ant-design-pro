@@ -36,3 +36,4 @@ functions/*
 screenshot
 .firebase
 .eslintcache
+*.swp
